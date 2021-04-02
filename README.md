@@ -4,5 +4,7 @@ edit webdriver location
 now run code once, youll get an error. the first time you run it you will get an error because there is no tiktok account logged  in.
 login on tiktok even if the script stopped because of an error. 
 in order for this to work you must be AFK
+you are free to do anything you want with this code.
+
 
 there are some minor issues with this i plan to fix.
