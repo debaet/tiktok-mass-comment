@@ -82,7 +82,7 @@ def main2():
 			driver.get('https://tiktok.com')
 
 
-def main49
+
 
 def main3():
 	for x in range(0, 6):
